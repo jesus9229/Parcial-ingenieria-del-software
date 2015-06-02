@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  * Clase para realizar tets a la clase Operaciones
- * @author Grupo de trabajo cuello, rios, rodrigez, sierra
+ * @author Grupo de trabajo cuello, rios, rodrigez, sierra h
  * @version 2.0
  * Fecha 27/05/2015
  */
